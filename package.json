@@ -1,0 +1,30 @@
+{
+  "name": "watch-and-chat",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000i\u0000n\u0000e\u0000C\u0000h\u0000a\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namitha-koduru/CineChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namitha-koduru/CineChat/issues"
+  },
+  "homepage": "https://github.com/namitha-koduru/CineChat#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5",
+    "socket.io": "^4.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
